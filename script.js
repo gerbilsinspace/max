@@ -13,7 +13,11 @@
 		],
 		images: [
 			"max1.png",
-			"max2.png"
+			"max2.png",
+			"max3.png",
+			"max4.png",
+			"max5.png",
+			"max6.png"
 		]
 	}
 
