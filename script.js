@@ -42,7 +42,7 @@
 
 		$.getJSON("https://www.omdbapi.com/?i=tt"+movieID, function(movieData) {
 	    $("#title").text(movieData.Title);
-	    $("#link").attr("href", 'http://www.imdb.com/title/tt'+movieID+'/');
+	    $("#link").attr("href", 'https://www.imdb.com/title/tt'+movieID+'/');
 	    $("#type").text("Type: " + movieData.Type);
 	    $("#year").text(movieData.Year);
 	    $("#rating").text(movieData.imdbRating);
