@@ -40,7 +40,7 @@
 	function setupMovie() {
 		var movieID = pad(Math.floor((Math.random() * 2155529) + 1), 7);
 
-		$.getJSON("http://www.omdbapi.com/?i=tt"+movieID, function(movieData) {
+		$.getJSON("https://www.omdbapi.com/?i=tt"+movieID, function(movieData) {
 	    $("#title").text(movieData.Title);
 	    $("#link").attr("href", 'http://www.imdb.com/title/tt'+movieID+'/');
 	    $("#type").text("Type: " + movieData.Type);
