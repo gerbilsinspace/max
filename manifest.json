@@ -1,9 +1,9 @@
 {
   "name": "This Is Max",
   "short_name": "Max",
-  "version": "0.0.1.2",
+  "version": "0.0.1.3",
   "description": "Quotes from characters from Piksel",
-  "icons": { "16": "icons/max-16.png",
+  "icons": { "16": "icons/max-18.png",
              "48": "icons/max-48.png",
              "128": "icons/max-128.png"
            },
