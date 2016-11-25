@@ -9,11 +9,16 @@
 			"I'm going to be late for stand up, I forgot to charge my car.",
 			"Where is my driving licence.",
 			"The controller is too small for my man hands.",
-			"Me Like Hulk"
+			"Me Like Hulk",
+			"Just tried paying for parking by shoving my card in the cash slot."
 		],
 		images: [
 			"max1.png",
-			"max2.png"
+			"max2.png",
+			"max3.png",
+			"max4.png",
+			"max5.png",
+			"max6.png"
 		]
 	}
 
